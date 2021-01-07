@@ -1,0 +1,1 @@
+This will be the MASTER LIST for the daily whiteboard jokes.  All subsequent cohorts will receive jokes in the order listed in this repo.  Timely new jokes may be substituted for the original joke if you so chose.
